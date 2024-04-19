@@ -11,5 +11,5 @@ A primeira pagina e uma visão geral de vendas mostrando a principais KPI temos 
 
 Segunda pagina temos análise focada nos produtos por categoria e subcategoria com YoY.
 
-### [Link do Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNDRkODM5M2YtNWRkMS00MjdhLWI0NDUtMTc2NTY0ZDgyNjUzIiwidCI6ImI4OTY0NzJkLWI4ZTMtNDE5Mi05ZTQ2LTVkNjExNTgwMTRhMCJ9&pageName=ReportSection])
+### [Link do Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDRkODM5M2YtNWRkMS00MjdhLWI0NDUtMTc2NTY0ZDgyNjUzIiwidCI6ImI4OTY0NzJkLWI4ZTMtNDE5Mi05ZTQ2LTVkNjExNTgwMTRhMCJ9&pageName=ReportSection)
 
